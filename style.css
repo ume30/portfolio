@@ -1,5 +1,5 @@
 /* CSS Document */
- @charset "UTF-8";
+@charset "UTF-8";
 
 html {
   font-size: 100%;
@@ -146,6 +146,32 @@ table th{
   padding-left: 37px;
 }
 
+/*--------------------------------
+ PORTFOLIO
+---------------------------------*/
+
+.app2 {
+  margin-top: 90px;
+}
+
+.app-caption {
+  width: 30%;
+  background-color: #ffffff;
+  margin-left: 35%;
+}
+
+.app-image {
+  width: 30%;
+  height: 200px;
+}
+
+.caption-title {
+  font-weight: bold;
+}
+
+.github-link {
+  color: skyblue;
+}
 
 /*--------------------------------
  Footer
@@ -183,3 +209,4 @@ table th{
 @media (max-width: 600px) {
 
 }
+
